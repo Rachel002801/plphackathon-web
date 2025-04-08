@@ -27,7 +27,9 @@ Project Structure
   ├── script.js            # JavaScript to dynamically load content and handle form submissions
   ├── README.md            # Project description
 How to Run
-Clone the repository:
+Clone the repository:rrachel002801/plphackathon-web
+index hmtl
+
 
 
 Contact Me
